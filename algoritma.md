@@ -62,6 +62,7 @@
 ##### Proj 4:
 
 **Pseudocode for loop to n value:**
+<br>
 [![n](<https://github.com/Dmaul0906/assets/blob/main/carbon%20(1).png?raw=true> "n")](<https://github.com/Dmaul0906/assets/blob/main/carbon%20(1).png?raw=true> "n")
 
 <br><br>
@@ -73,6 +74,7 @@
 ##### Proj 1:
 
 **Algoritma untuk convert jam ke detik:**
+<br>
 [![fizzbuzz](<https://github.com/Dmaul0906/assets/blob/main/carbon%20(2).png?raw=true> "fizzbuzz")](<https://github.com/Dmaul0906/assets/blob/main/carbon%20(2).png?raw=true> "fizzbuzz")
 
 <br>
